@@ -16,3 +16,5 @@ Controls
 Arrow Keys (`↑`, `↓`, `←`, `→`): Steer Mr. Hatchie
 Spacebar: Pause / Resume game
 Mouse:Select skins and restart from the menu
+
+[Mr. Hatchie Demo](Mr.HATCHIE.gif)
